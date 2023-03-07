@@ -1,5 +1,6 @@
 # FizzBuzz program
 #STEP 2 : improve efficiency 
+# made change on line 6 - more efficient
 
 for i in range(1, 101): 
     if (i % 15 == 0):
