@@ -1,8 +1,8 @@
 # FizzBuzz program
-#STEP 1 : Get program to work
+#STEP 2 : improve efficiency 
 
 for i in range(1, 101): 
-    if i % 3 == 0 and  i % 5 == 0:
+    if (i % 15 == 0):
         print("FizzBuzz")
     elif(i % 3 == 0):
         print("Fizz")
